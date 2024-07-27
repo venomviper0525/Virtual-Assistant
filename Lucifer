@@ -94,7 +94,7 @@ if __name__ == "__main__":
             speak(f"Sir, the time is {strTime}")
 
         elif 'open code' in query:
-            codePath = "C:\\Users\\Haris\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+            codePath = "C:\Users\2008AX\OneDrive\Desktop\Audiobook"
             os.startfile(codePath)
 
         elif 'email to author' in query:
